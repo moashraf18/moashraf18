@@ -1,6 +1,8 @@
 # 💫 About Me:
   
-
+An ambitious third-year Computers and Artificial Intelligence student with experience in Database, C#, OOP,
+ASP.NET Core (Web API, MVC), RESTful API Development, LINQ, Entity Framework Core, seeking an
+opportunity to build scalable and efficient server-side applications.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/moashraf18) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamed.elzamalkawy.184881) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mo_ashraf_18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ashraf-9b4656312) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/moashraf18) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31874450) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@moashraf_18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mo_ashraf_18) 
